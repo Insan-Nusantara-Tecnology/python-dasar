@@ -13,6 +13,7 @@ while total_jumlah_baca < jumlah_buku:
     print(total_jumlah_baca)
     total_jumlah_baca +=1
 
+
 '''
 while total_jumlah_baca < jumlah_buku * 2:
     total_jumlah_baca = total_jumlah_baca + 1
